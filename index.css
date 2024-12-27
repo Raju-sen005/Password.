@@ -1,0 +1,12 @@
+body{
+	background: #f54646;
+}
+h1{
+	text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: math;
+    font-weight: 100;
+    text-decoration: underline;
+    text-decoration-thickness: 3.3px;
+}
