@@ -12,5 +12,9 @@ h1{
 }
 p{
 	text-align: center;
+    font-size: 17px;
     color: white;
+    width: 36%;
+    position: relative;
+    left: 32%;
 }
