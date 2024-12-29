@@ -10,3 +10,7 @@ h1{
     text-decoration: underline;
     text-decoration-thickness: 3.3px;
 }
+p{
+	text-align: center;
+    color: white;
+}
