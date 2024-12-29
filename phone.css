@@ -1,0 +1,21 @@
+body{
+	background-color: #993838;
+}
+p{
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    font-family: sans-serif;
+    width: 50%;
+    position: relative;
+    left: 27%;
+}
+h1{
+	text-align: center;
+    font-size: 30px;
+    color: red;
+    font-family: math;
+    font-weight: 100;
+    text-decoration: underline;
+    text-decoration-thickness: 3.3px;
+}
